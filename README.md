@@ -22,4 +22,7 @@ A beautiful, dark-mode enabled weather app. App can check the weather for the cu
 * Learn to use Grand Central Dispatch to fetch the main thread.
 * Learn to use Core Location to get the current location from the phone GPS. 
 
+## App Walkthrough
+RPReplay_Final1663785882
+
 >This is a companion project to The App Brewery's Complete App Development Bootcamp by Angela Yu, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)

@@ -23,6 +23,11 @@ A beautiful, dark-mode enabled weather app. App can check the weather for the cu
 * Learn to use Core Location to get the current location from the phone GPS. 
 
 ## App Walkthrough
-RPReplay_Final1663785882
+
+https://user-images.githubusercontent.com/38589337/191587310-b9b2af25-a706-4bcd-9b35-99aeb1fc1ea0.mp4
 
 >This is a companion project to The App Brewery's Complete App Development Bootcamp by Angela Yu, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+
+
+
+
